@@ -1,0 +1,45 @@
+meta:
+    name:
+        full: Montessori Gemeinschaftsschule Saar
+        short: MGS
+    link: 
+        home: https://montessori-sb.de/
+    description: Die Montessori Gemeinschaftsschule Saar arbeitet als Reformschule im gebundenen Ganztagsschulbetrieb. Wir sind eine staatlich anerkannte Ersatzschule in privater Trägerschaft. Schüler*innen können bei uns ab der 5. Klasse lernen und alle im Saarland vorgesehenen Schulabschlüsse erwerben. Wir orientieren uns an den Lehrplänen und den jeweils gültigen Verordnungen für Gemeinschaftsschulen im Saarland.
+    founded: 2007 
+
+logo:
+    small: style/mgss_symbol_color.png
+    medium: style/mgss_symbol_color.png
+    large: style/mgss_symbol_color.svg
+
+color:
+    palette:
+        ivory: "#F4F4E7"
+        dark-grey: "#222222"
+        mid-grey: "#3F3F3F"
+        light-grey: "#5C6064"
+        light-blue: "#4d8ac2"
+        jasper: "#D44D39"
+        pear: "#D9E150"
+        dim-grey: "#5D6165"
+    background: ivory
+    foreground: dark-grey
+    primary: mid-grey
+    secondary: light-grey
+    tertiary: dim-grey
+
+typography:
+    fonts: 
+      - family: Oxanium
+        source: bunny
+      - family: Crimson Pro
+        source: bunny
+      - family: Fraunces
+        source: bunny
+    base:
+        family: Fraunces
+    headings:
+        family: Oxanium
+        color: mid-grey
+    link:
+        color: light-blue

@@ -1,0 +1,151 @@
+---
+title: | 
+    <p>![](style/mgmss_brand_color.png){width=40px}</p>
+    Kennzeichen des Lebens
+subtitle: |
+    Warum lebt etwas und etwas anderes nicht? <br>
+    <br>
+    Start: 2025-08-21 <br>
+    Abgabe: 2025-08-28
+date: 2025-08-05 
+date-modified: 2025-08-21
+author: Călin Drăgan
+lang: de 
+abstract: 'Die Biologie beschäftigt sich mit einem der komplexesten Organisationsformen von Materie: Leben. Dabei untersucht sie die Strukturen, Beziehungen und Prozessen des Lebendigen, die selbst mehrere Größenordnungen abdecken können. Dabei sind einige wenige fundamentale Eigenschaften von lebenden Systemen ausreichend, um die gesamte Biologie zu verstehen.'
+title-block-banner: true
+format: 
+    html: 
+        toc: true
+        toc-depth: 4
+brand: style/_brand.yml
+filters: 
+  - highlight-text
+# css: style/style.css
+---
+
+## Was ist Leben?
+
+Lebendiges unterscheidet sich vom Unlebendingen. Wir Menschen können im Alltäglichen ohne weiteres zwischen Lebendigem und Unlebendigem unterscheiden. Unsere Sinne täuschen uns selten aber bedeutet das, dass wir wirklich wissen was Leben heißt?
+
+::: {#fig-life-vs-inorganics layout-nrow=1 layout-valign="bottom"}
+
+![](img/american-jael-rLoAjStfZ_4-unsplash.jpg)
+
+![](img/kevin-yates--MGo5XlSdXA-unsplash.jpg)
+
+Wir erkennen mit Leichtigkeit was lebendig und was unlebendig ist. Auf diesen Fotos erkennen wir fast schon instinktiv was lebendig ist. Auch wenn der Eindruck manchmal trügt, haben wir Menschen eine recht gute Vorstellung vom Leben. Selbst höhere Tiere scheinen recht gut zwischen Leben und Tod zu unterscheiden.
+:::
+
+Scheinbar Unlebendiges entpuppt sich manchmal als Leben und umgekehrt. Deshalb hat die Biologie und andere Wissenschaften über die Zeit eine Vorstellung vom Leben entwickelt, die praktische als auch theoretische Arbeit ermöglicht, ohne in ergebnislosen und nicht endenden Diskussionen abzugleiten. Es ist nicht die einzige mögliche Erklärung des Lebens aber eine für Naturwissenschaften recht greifbare.
+
+Dies sind die deskriptiven **Kennzeichen des Lebens**.
+
+### Stoffwechsel und Gleichgewicht
+
+Alle Lebewesen müssen etwas von außerhalb ihres eigenen Körpers aufnehmen und geben etwas ab. 
+
+```{mermaid}
+%%| fig-height: 3
+%%| label: fig-metabolism-equilibrium
+flowchart LR
+    Rein@{shape: circle} --> Leben@{shape: circ, label: "Leben"}
+    Leben --> Raus@{shape: circle}
+
+    style Rein fill:#F4F4E7,stroke:#F4F4E7;
+    style Leben stroke:#F4F4E7;
+    style Raus fill:#F4F4E7,stroke:#F4F4E7;
+```
+
+Dabei wird das was hinein geht irgendwie in das was hinaus geht umgewandelt. Das was hinein geht steht mit dem was hinaus geht in einem **Fliessgleichgewicht**. Dieser Prozess heisst **Metabolismus**. 
+
+### Aufrechterhaltung von Bedingungen und Abgrenzung
+
+Das Leben findet in einem abgegrenzten Raum statt.
+
+```{mermaid}
+%%| fig-height: 3
+%%| label: fig-homeostasis-cellularity
+flowchart LR
+    Rein@{shape: circle} --> Leben@{shape: circ, label: "Leben"}
+    Leben --> Raus@{shape: circle}
+
+    style Rein fill:#F4F4E7,stroke:#F4F4E7;
+    style Raus fill:#F4F4E7,stroke:#F4F4E7,strok;
+```
+
+Damit der Metabolismus unter optimalen Bedingungen ablaufen kann, muss er vor äußeren Einflüssen geschützt werden. Das Leben schließt sich also ein und trennt sich von der unbelebten Welt. Das ermöglicht auch die Kontrolle der Bedingungen.
+
+### Verhalten
+
+Das Leben zeigt typische Reaktionen auf Belebtes und Unbelebtes.
+
+```{mermaid}
+%%| fig-height: 3
+%%| label: fig-behavior
+flowchart TD
+    Bolt1@{shape: bolt} --> Da@{shape: circ, label: "Leben"}
+    Bolt2@{shape: bolt} --> Weg@{shape: circ, label: "Weg"}
+
+    style Weg fill:#F4F4E7,stroke:#F4F4E7;
+```
+
+Das beinhaltet, dass das Leben durch Sensoren **Reize** aufnimmt und sie mithilfe von Informationsverarbeitung in einer entsprechenden **Reizreaktion** umwandelt. Die Gesamtheit solcher Prozess nennt sich **Verhalten**.
+
+### Wachstum
+
+Alles was lebendig ist muss wachsen.
+
+```{mermaid}
+%%| fig-height: 3
+%%| label: fig-growth
+flowchart LR
+    Klein@{shape: circ, label: "Klein"} --> Groß@{shape: circ, label: "Ich bin gewachsen"}
+```
+
+Dabei wird ein Teil von dem was hinein geht verwendet. Wachstum passiert wenn der **Anabolismus** stärker als der **Katabolismus** ist.  
+
+### Vermehrung
+
+Aus Lebendigem entsteht Lebendiges.
+
+```{mermaid}
+%%| fig-height: 3
+%%| label: fig-reproduction
+flowchart LR
+    Groß@{shape: circ, label: "Ich bin gewachsen"} --> Klein1@{shape: circ, label: "Klein"} 
+    Groß --> Klein2@{shape: circ, label: "Klein"}
+```
+
+Dieser Vorgang heißt **Reproduktion** und ist einer der ätesten und kompliziertesten Vorgänge des Lebendigen.
+
+### Bauplan und Funktionsplan
+
+Wenn aus Leben Leben neues Leben entsteht, muss das neue Leben wissen wie es aussehen und funktionieren soll.
+
+```{mermaid}
+%%| fig-height: 3
+%%| label: fig-information
+flowchart LR
+    Groß@{shape: circ, label: "Ich bin gewachsen"} -.-x Klein1@{shape: rounded, label: "Klein"} 
+    Groß --> Klein2@{shape: circ, label: "Klein"}
+```
+
+Erstens, irgendwo befindet sich ein Ort, an dem **Information** für den Bau neuer lebendiger Einheiten festgehalten ist. Zweitens, diese Information muss irgendwie weitergegeben werden. 
+
+### Kurzfristige und langfristige Anpassung
+
+Das Leben versucht sich immer, anzupassen.
+
+```{mermaid}
+%%| fig-height: 3
+%%| label: fig-adaptation
+flowchart LR
+    Anfang1@{shape: circ, label: "Leben"} --> Ende1@{shape: circ, label: "Leben"} 
+    Anfang2@{shape: circ, label: "Leben"} --> Zwischen2@{shape: circ, label: "... ... ... ... ..."} --> Ende2@{shape: rounded, label: "Leben"}
+
+    style Ende1 fill:#F4F4FF;
+    style Zwischen2 fill:#F4F4E7,stroke:#F4F4E7;
+    style Ende2 fill:#F4F4FF;
+```
+
+Die Anpassung des Lebens an Veränderung kennt zwei Geschwindigkeiten. Die schnelle Art beruht auf den Möglichkeiten, die der Bau- und Funktionsplan bietet. Die langsame Art heißt **Evolution**. In beiden Fällen nennt sich der prozess **Adaptation**.
