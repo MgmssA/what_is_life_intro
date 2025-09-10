@@ -149,3 +149,53 @@ flowchart LR
 ```
 
 Die Anpassung des Lebens an Veränderung kennt zwei Geschwindigkeiten. Die schnelle Art beruht auf den Möglichkeiten, die der Bau- und Funktionsplan bietet. Die langsame Art heißt **Evolution**. In beiden Fällen nennt sich der prozess **Adaptation**.
+
+## Arbeitsaufträge
+
+Reiche die Antworten als digitales Dokument ein und verwende keine Schreibschrift. Beantworten mindestens fünf Aufträge aber beschäftige Dich mit dem Rest. Es könnten interessante Sachen für eine LSÜ dabei sein. Stufe I ist auf E Niveau, Stufe II ist auf E/A Niveau, Stufe III ist komplett auf A Niveau angesiedelt.
+
+### Stufe I
+
+#. Womit beschäftigt sich die Naturwissenschaft **Biologie**? Gib eine einfache Beschreibung an.
+
+#. Gib die einfachste Beschreibung des Begriffs **Metabolismus** an.
+
+#. Schau Dir @fig-homeostasis-cellularity an; wie kommt das **Fliessgleichgewicht** zustande?
+
+#. Definiere **Homöostase**.
+
+#. Beschreibe was ein **Reiz** ist. Gib ein Beispiel für etwas, was **kein Reiz** ist.
+
+#. Erkläre in einem Satz was **Wachstum** bedeutet.
+
+#. Definiere möglichst einfach die Begriffe **Anabolismus** und **Katabolismus**.
+
+#. Beschreibe in zwei Sätzen die **Reproduktion**.
+
+#. Wie heißt die biologische Information? Wo wird sie üblicherweise gespeichert?
+
+### Stufe II
+
+#. Betrachte @fig-metabolism-equilibrium und nenne jeweils was in Pflanzen und Tieren hinein und hinaus geht. 
+
+#. Mit welchem Naturstoff oder Material grenzt sich das Leben von seiner Umgebung ab? Was bildet dieser Naturstoff?
+
+#. Wie nennt sich die biologische Grundeinheit, die nach der Abtrennung von der Umgebung erfolgt?
+
+#. Gib den Namen der Struktur an, die bei höheren Tieren wie wir Menschen, für die Informationsverarbeitung der Reize verwendet wird.
+
+#. Von welchem Zeitraum sprechen wir, wenn wir von schneller und langsamer Anpassung sprechen in @fig-adaptation?
+
+### Stufe III
+
+#.  Warum muss etwas in das Lebendige hinein gehen und heraus kommen in @fig-metabolism-equilibrium? Was wird da verwendet und warum?
+
+#. Ist das Innere in @fig-homeostasis-cellularity in Gleichgewicht mit seiner Umgebung?
+
+#. Was ist der Tod?
+
+#. Erläutere den Zusammenhang zwischen **Wachstum** und **Reproduktion**.
+
+#. Was muss auf jeden Fall innerhalb der biologischen Einheit in @fig-growth wachsen und warum? 
+
+#. Was sorgt jeweils für die schnelle und die langsame Anpassung?
