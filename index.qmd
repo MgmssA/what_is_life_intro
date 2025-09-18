@@ -2,11 +2,7 @@
 title: | 
     <p>![](style/mgmss_brand_color.png){width=40px}</p>
     Kennzeichen des Lebens
-subtitle: |
-    Warum lebt etwas und etwas anderes nicht? <br>
-    <br>
-    Start: 2025-08-21 <br>
-    Abgabe: 2025-08-28
+subtitle: 'Warum lebt etwas und etwas anderes nicht?<br><small>Einführung mit Aufgaben</small>'
 date: 2025-08-05 
 date-modified: 2025-08-21
 author: Călin Drăgan
